@@ -1,4 +1,4 @@
-# ELITE Group
+# SOMPALLY SHAMBHAVI
 Smart Shopping Checkout Project 
 2021 Fall Hack-A-Roo: IT/CS Track Project Submission
 
